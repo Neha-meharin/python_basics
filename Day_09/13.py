@@ -1,5 +1,5 @@
-num = input("Enter a number: ")   # keep as string
+num = input("Enter: ")
 res = 0
 for digit in num:
-    res = res + int(digit)        # convert each char back to int
+    res = res + int(digit) 
 print("Sum of digits:", res)
