@@ -1,4 +1,4 @@
-Reverse a number
+
 # n=int(input("enter"))
 n=23
 reverse=0
